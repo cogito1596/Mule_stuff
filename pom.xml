@@ -13,8 +13,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.4.0-20230417</app.runtime>
-		<mule.maven.plugin.version>3.8.2</mule.maven.plugin.version>
+		<app.runtime>4.4.0</app.runtime>
+		<mule.maven.plugin.version>3.8.1</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -60,7 +60,7 @@
 
 	<repositories>
 		<repository>
-			<id>anypoint-exchange-v3</id>
+			<id>Anypointid</id>
 			<name>Anypoint Exchange</name>
 			<url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
 			<layout>default</layout>
