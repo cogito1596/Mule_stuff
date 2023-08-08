@@ -34,7 +34,7 @@
 					<username>jakeaussy1975</username>
 					<password>Onelove@1975</password>
 					<workers>1</workers>
-					<workertype>Micro</workertype>
+					<workerType>Micro</workerType>
 					<applicationName>worldtimezone</applicationName>
 					<muleVersion>4.4.0</muleVersion>
 				</cloudHubDeployment>
