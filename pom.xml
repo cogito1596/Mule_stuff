@@ -36,7 +36,8 @@
 						<applicationName>worldtimezone12</applicationName>
 						<muleVersion>4.4.0</muleVersion>
 						<environment>Sandbox</environment>
-						<server>Anypointid</server>
+						<username>jakeaussy1975</username>
+						<password>Onelove@1975</password>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
